@@ -19,9 +19,10 @@ Suportting  multiple players.
 
 1. express 4x
 
-## Recommended client
+## Recommended Tools
 
 1. https://www.gamemaker.weixin.qq.com
+2. https://github.com/BlessedChild/ArthurSlog_WGS_Primary
 
 ## Recommended projects
 
