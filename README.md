@@ -35,4 +35,7 @@ Suportting  multiple players.
 7. https://www.bilibili.com/video/BV1qX4y1A7GC
 8. https://www.bilibili.com/video/BV1264y1t77d
 9. https://www.bilibili.com/video/BV1zM4y1u7bi
-10. https://www.bilibili.com/video/BV1Q44y1i7nD 🔥
+10. https://www.bilibili.com/video/BV1Q44y1i7nD
+11. https://www.bilibili.com/video/BV1nK4y1g7w2
+12. https://www.bilibili.com/video/BV17K4y1g7aC
+13. https://www.bilibili.com/video/BV12B4y1K75E
